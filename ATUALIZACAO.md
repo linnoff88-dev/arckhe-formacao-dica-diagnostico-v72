@@ -19,7 +19,7 @@ Conferência feita em **19/10/2026**, antes de escrever o conteúdo, como pede a
 ### 1.1 Por que PME, por que agora → aula 1
 - **O módulo diz:** PME vive paradoxo de tempo; "estudos relatam abandono em até 70% dos casos em 90 dias"; janela de adoção de 2–3 anos; "milhões de PMEs, 0,001% é carteira"; "conta plausível" com ticket em R$.
 - **O que mudou / sem fonte:** os 70%, a janela de 2–3 anos, o 0,001% e os tickets não têm estudo, data nem amostra. Venda e preço já são da Vendas com IA.
-- **O que entra:** o retrato operacional do pequeno negócio (dono decide sozinho, sem TI, WhatsApp no centro, informação na cabeça do dono) como observação de campo do mapacliente, sem número; o método DICA dentro do papel Consultor do Profissional 2030 (https://eventos.inema.pro/prof2030/, 200 em 19/10/2026); "o que você não é" fica em link (prof2030-base a7).
+- **O que entra:** o retrato operacional do pequeno negócio (dono decide sozinho, sem TI, WhatsApp no centro, informação na cabeça do dono) como observação de campo do mapacliente, sem número; o método DICA dentro do papel Consultor do Profissional 2030 (https://eventos.ARCKHÉ.pro/prof2030/, 200 em 19/10/2026); "o que você não é" fica em link (prof2030-base a7).
 - **Cortado:** 70%, 0,001%, "conta plausível", janela de 2–3 anos.
 
 ### 2.3 Explicar IA sem assustar → aula 8 (linguagem do relatório)
@@ -42,13 +42,13 @@ Conferência feita em **19/10/2026**, antes de escrever o conteúdo, como pede a
 
 ### 3.3 Conhecimento implícito → aulas 4 e 5
 - **O módulo diz:** "dono opera 80% no automático", "me conta um caso recente", regra do 3 ("3 casos é padrão, 5 é regra"), template de caso de 6 campos, SE/ENTÃO, validar com 3 casos novos, "estrutura ideal de prompt" em 6 blocos, "50% das vezes ele ajusta".
-- **O que mudou:** o "prompt em 6 blocos" envelheceu como peça isolada; hoje o lugar das regras é o **pacote de contexto da empresa**, com dono e data (gestao-ia-recursos-v72 a3, https://inematds.github.io/gestao-ia-recursos-v72/, 200 em 19/10/2026). O exemplo "convênio Bradesco não cobre cirurgia" cita operadora real: vira convênio fictício.
+- **O que mudou:** o "prompt em 6 blocos" envelheceu como peça isolada; hoje o lugar das regras é o **pacote de contexto da empresa**, com dono e data (gestao-ia-recursos-v72 a3, https://linnoff88-dev.github.io/ 200 em 19/10/2026). O exemplo "convênio Bradesco não cobre cirurgia" cita operadora real: vira convênio fictício.
 - **O que entra:** caso recente, regra do 3 como regra prática, template de caso, SE/ENTÃO, validação com 3 casos novos, arquivo de regras com dono, data e versão.
 - **Cortado:** 80%, 50%, nome de operadora real, "few-shot" como jargão sem explicação.
 
 ### 3.4 Mapa de oportunidades → aulas 6 e 7
 - **O módulo diz:** 6 eixos 0–3 ("cobrem 95% das decisões"), score = (impacto + facilidade + urgência + venda) − (risco + dependência humana), 4 quadrantes, 3 níveis de automação, "bot resolve 80%, escala 20%", impacto "< R$ 1k/mês > R$ 5k/mês", "não recomendar" e devolutiva de 10 min que termina em "posso mandar contrato?".
-- **O que mudou:** o conceito-dono de priorização é valor × viabilidade + "quando não usar IA" (prof2030-consultor a3, https://inematds.github.io/prof2030-consultor/aulas/valor-viabilidade/, 200 em 19/10/2026). Os 6 eixos ficam como a versão de pequeno negócio, com a pergunta "precisa de IA mesmo?" antes de pontuar. Fechamento de contrato é da Vendas com IA.
+- **O que mudou:** o conceito-dono de priorização é valor × viabilidade + "quando não usar IA" (prof2030-consultor a3, https://linnoff88-dev.github.io/ 200 em 19/10/2026). Os 6 eixos ficam como a versão de pequeno negócio, com a pergunta "precisa de IA mesmo?" antes de pontuar. Fechamento de contrato é da Vendas com IA.
 - **O que entra:** 6 eixos com fórmula (mantida), impacto em horas da semana ou clientes perdidos **contados pelo próprio dono**, sem R$; 4 quadrantes; 1 recomendada + 1 "não precisa de IA"; 3 níveis de automação (aula 7); devolutiva termina em próximo passo, não em contrato.
 - **Cortado:** 95%, 80/20, faixas em R$, "posso te mandar contrato".
 

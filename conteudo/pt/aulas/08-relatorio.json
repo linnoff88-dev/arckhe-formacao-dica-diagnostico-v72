@@ -146,12 +146,12 @@
       "tipo": "links",
       "titulo": "Continue por aqui",
       "links": [
-        {"t": "DICA 2 · Implantar, Capacitar e Acompanhar (próximo curso)", "href": "https://inematds.github.io/formacao-dica-entrega-v72/", "icone": "seta"},
-        {"t": "Piloto de 30 dias com agente (prof2030-consultor, aula 5)", "href": "https://inematds.github.io/prof2030-consultor/aulas/piloto-30-dias/", "icone": "calendario"},
-        {"t": "Uma página para a diretoria (prof2030-base, aula 8)", "href": "https://inematds.github.io/prof2030-base/aulas/diretoria/", "icone": "arquivo"},
-        {"t": "Preço, proposta e primeiro cliente (Vendas com IA 4)", "href": "https://inematds.github.io/formacao-vendas-ia-primeiro-cliente-v72/", "icone": "alvo"},
-        {"t": "Mapa do Cliente: versão anterior (2026, só PT)", "href": "https://inematds.github.io/mapacliente/", "icone": "voltar"},
-        {"t": "Área Consultoria de IA", "href": "https://eventos.inema.pro/consultoria-ia/", "icone": "camadas"}
+        {"t": "DICA 2 · Implantar, Capacitar e Acompanhar (próximo curso)", "href": "https://linnoff88-dev.github.io/ "icone": "seta"},
+        {"t": "Piloto de 30 dias com agente (prof2030-consultor, aula 5)", "href": "https://linnoff88-dev.github.io/ "icone": "calendario"},
+        {"t": "Uma página para a diretoria (prof2030-base, aula 8)", "href": "https://linnoff88-dev.github.io/ "icone": "arquivo"},
+        {"t": "Preço, proposta e primeiro cliente (Vendas com IA 4)", "href": "https://linnoff88-dev.github.io/ "icone": "alvo"},
+        {"t": "Mapa do Cliente: versão anterior (2026, só PT)", "href": "https://linnoff88-dev.github.io/ "icone": "voltar"},
+        {"t": "Área Consultoria de IA", "href": "https://eventos.ARCKHÉ.pro/consultoria-ia/", "icone": "camadas"}
       ]
     }
   ]

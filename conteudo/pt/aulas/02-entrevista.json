@@ -199,9 +199,9 @@
       "tipo": "links",
       "titulo": "Para ir além",
       "links": [
-        {"t": "A call de descoberta que vende o diagnóstico (Vendas com IA 2, aula 2)", "href": "https://inematds.github.io/formacao-vendas-ia-consultoria-v72/aulas/call-descoberta/", "icone": "chat"},
-        {"t": "Data guard: dados, fornecedores e modelos (prof2030-auditor, aula 6)", "href": "https://inematds.github.io/prof2030-auditor/aulas/data-guard/", "icone": "escudo"},
-        {"t": "Dados, LGPD e escolha de fornecedor (prof2030-base, aula 5)", "href": "https://inematds.github.io/prof2030-base/aulas/dados-lgpd/", "icone": "cadeado"},
+        {"t": "A call de descoberta que vende o diagnóstico (Vendas com IA 2, aula 2)", "href": "https://linnoff88-dev.github.io/ "icone": "chat"},
+        {"t": "Data guard: dados, fornecedores e modelos (prof2030-auditor, aula 6)", "href": "https://linnoff88-dev.github.io/ "icone": "escudo"},
+        {"t": "Dados, LGPD e escolha de fornecedor (prof2030-base, aula 5)", "href": "https://linnoff88-dev.github.io/ "icone": "cadeado"},
         {"t": "LGPD, texto da lei (Planalto)", "href": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm", "icone": "arquivo"}
       ]
     }

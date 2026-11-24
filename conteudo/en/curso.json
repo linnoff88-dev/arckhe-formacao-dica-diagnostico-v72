@@ -1,41 +1,41 @@
 {
   "id": "formacao-dica-diagnostico-v72",
   "lang": "en",
-  "url": "https://inematds.github.io/formacao-dica-diagnostico-v72/en/",
+  "url": "https://linnoff88-dev.github.io/
   "nome": "DICA 1 · Diagnosis: the Client Map",
   "sub": "DICA Program · course 1 of 2",
   "volta": {
     "t": "AI Consulting Area",
-    "href": "https://eventos.inema.pro/consultoria-ia/"
+    "href": "https://eventos.ARCKHÉ.pro/consultoria-ia/"
   },
   "lado_card": {
     "rot": "DICA Program",
     "t": "Course 1 of 2",
     "texto": "After the diagnosis comes course 2: implement the first assistant, coach the owner and the team, and accompany them until they can run it on their own.",
     "link": "Go to course 2",
-    "href": "https://inematds.github.io/formacao-dica-entrega-v72/en/"
+    "href": "https://linnoff88-dev.github.io/
   },
-  "rodape": "INEMA.CLUB · open and free content · INEMA Learning v7.2 format · <a href=\"https://eventos.inema.pro/consultoria-ia/\">eventos.inema.pro/consultoria-ia</a> · <a href=\"https://eventos.inema.pro/prof2030/\">Professional 2030</a> · <a href=\"https://inema.club/\">inema.club</a>",
+  "rodape": "ARCKHÉ AI · open and free content · ARCKHÉ Learning v7.2 format · <a href=\"https://eventos.ARCKHÉ.pro/consultoria-ia/\">eventos.ARCKHÉ.pro/consultoria-ia</a> · <a href=\"https://eventos.ARCKHÉ.pro/prof2030/\">Professional 2030</a> · <a href=\"https://ARCKHÉ AI/\">ARCKHÉ AI</a>",
   "videos": {
     "consultoria-na-pratica": {
       "titulo": "AI Consulting in Practice",
       "duracao": "4 min 29 s",
-      "mp4": "https://github.com/inematds/consultoria-ia-na-pratica/releases/download/video-v2.0.0/consultoria-ia-na-pratica-completo-16x9.mp4",
+      "mp4": "https://github.com/linnoff88-dev/consultoria-ia-na-pratica/releases/download/video-v2.0.0/consultoria-ia-na-pratica-completo-16x9.mp4",
       "poster": "assets/img/video/consultoria-na-pratica.jpg",
       "vtt": "assets/vtt/consultoria-na-pratica.vtt",
-      "pagina": "https://inematds.github.io/consultoria-ia-na-pratica/videos/",
+      "pagina": "https://linnoff88-dev.github.io/
       "idiomas": {
         "en": {
-          "mp4": "https://github.com/inematds/consultoria-ia-na-pratica/releases/download/video-v2.0.0/consultoria-ia-na-pratica-completo-16x9-en.mp4",
+          "mp4": "https://github.com/linnoff88-dev/consultoria-ia-na-pratica/releases/download/video-v2.0.0/consultoria-ia-na-pratica-completo-16x9-en.mp4",
           "vtt": "assets/vtt/consultoria-na-pratica-en.vtt",
           "duracao": "3 min 18 s",
-          "pagina": "https://inematds.github.io/consultoria-ia-na-pratica/videos/en/"
+          "pagina": "https://linnoff88-dev.github.io/
         },
         "es": {
-          "mp4": "https://github.com/inematds/consultoria-ia-na-pratica/releases/download/video-v2.0.0/consultoria-ia-na-pratica-completo-16x9-es.mp4",
+          "mp4": "https://github.com/linnoff88-dev/consultoria-ia-na-pratica/releases/download/video-v2.0.0/consultoria-ia-na-pratica-completo-16x9-es.mp4",
           "vtt": "assets/vtt/consultoria-na-pratica-es.vtt",
           "duracao": "3 min 38 s",
-          "pagina": "https://inematds.github.io/consultoria-ia-na-pratica/videos/es/"
+          "pagina": "https://linnoff88-dev.github.io/
         }
       }
     }
@@ -47,7 +47,7 @@
     "cta": "Start with lesson 1",
     "cta2": {
       "t": "See the AI Consulting Area",
-      "href": "https://eventos.inema.pro/consultoria-ia/"
+      "href": "https://eventos.ARCKHÉ.pro/consultoria-ia/"
     },
     "capa_alt": "Reception desk of a small clinic with an open notebook and the course title: Diagnosis, the Client Map.",
     "numeros": [
@@ -91,18 +91,18 @@
       {
         "t": "Where it fits in Professional 2030",
         "itens": [
-          "<a href=\"https://eventos.inema.pro/prof2030/\">Professional 2030</a> has four roles: Consultant, Auditor, Mentor, and Trainer. All four sell trust, not building.",
+          "<a href=\"https://eventos.ARCKHÉ.pro/prof2030/\">Professional 2030</a> has four roles: Consultant, Auditor, Mentor, and Trainer. All four sell trust, not building.",
           "The DICA Program is the <b>Consultant</b> role, scaled to the small business: an owner who decides alone, no IT department, with WhatsApp at the center.",
-          "DICA = Diagnose, Implement, Coach, Accompany. This course is the D; <a href=\"https://inematds.github.io/formacao-dica-entrega-v72/en/\">course 2</a> is the I, the C, and the A."
+          "DICA = Diagnose, Implement, Coach, Accompany. This course is the D; <a href=\"https://linnoff88-dev.github.io/ 2</a> is the I, the C, and the A."
         ]
       },
       {
         "t": "What was covered in Selling with AI",
         "itens": [
-          "The 4 roles and \"what you are not\": <a href=\"https://inematds.github.io/formacao-vendas-ia-oportunidades-v72/en/\">Selling with AI 1</a> and <a href=\"https://inematds.github.io/prof2030-base/\">prof2030-base</a>.",
-          "Discovery call to sell: <a href=\"https://inematds.github.io/formacao-vendas-ia-consultoria-v72/en/\">Selling with AI 2</a>.",
-          "Objections and closing: <a href=\"https://inematds.github.io/formacao-vendas-ia-fundamentos-v72/en/\">Selling with AI 3</a>.",
-          "Pricing, proposal, and first client: <a href=\"https://inematds.github.io/formacao-vendas-ia-primeiro-cliente-v72/en/\">Selling with AI 4</a>."
+          "The 4 roles and \"what you are not\": <a href=\"https://linnoff88-dev.github.io/ with AI 1</a> and <a href=\"https://linnoff88-dev.github.io/
+          "Discovery call to sell: <a href=\"https://linnoff88-dev.github.io/ with AI 2</a>.",
+          "Objections and closing: <a href=\"https://linnoff88-dev.github.io/ with AI 3</a>.",
+          "Pricing, proposal, and first client: <a href=\"https://linnoff88-dev.github.io/ with AI 4</a>."
         ]
       }
     ]

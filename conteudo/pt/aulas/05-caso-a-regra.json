@@ -115,8 +115,8 @@
       "tipo": "links",
       "titulo": "Para ir além",
       "links": [
-        {"t": "Conhecimento da empresa como ativo: o pacote de contexto (Gestão de IA · Recursos, aula 3)", "href": "https://inematds.github.io/gestao-ia-recursos-v72/aulas/contexto/", "icone": "memoria"},
-        {"t": "Data guard: para onde o dado pode ir (prof2030-auditor, aula 6)", "href": "https://inematds.github.io/prof2030-auditor/aulas/data-guard/", "icone": "escudo"}
+        {"t": "Conhecimento da empresa como ativo: o pacote de contexto (Gestão de IA · Recursos, aula 3)", "href": "https://linnoff88-dev.github.io/ "icone": "memoria"},
+        {"t": "Data guard: para onde o dado pode ir (prof2030-auditor, aula 6)", "href": "https://linnoff88-dev.github.io/ "icone": "escudo"}
       ]
     }
   ]

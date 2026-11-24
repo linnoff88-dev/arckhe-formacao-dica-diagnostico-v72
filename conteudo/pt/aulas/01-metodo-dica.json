@@ -114,10 +114,10 @@
       "tipo": "links",
       "titulo": "Para ir além",
       "links": [
-        {"t": "Profissional 2030: os quatro papéis", "href": "https://eventos.inema.pro/prof2030/", "icone": "camadas"},
-        {"t": "O que você não é (prof2030-base, aula 7)", "href": "https://inematds.github.io/prof2030-base/aulas/escopo/", "icone": "escudo"},
-        {"t": "Os 4 papéis (Vendas com IA 1, aula 1)", "href": "https://inematds.github.io/formacao-vendas-ia-oportunidades-v72/aulas/escolha-o-papel/", "icone": "usuario"},
-        {"t": "Página do vídeo com roteiro", "href": "https://inematds.github.io/consultoria-ia-na-pratica/videos/", "icone": "video"}
+        {"t": "Profissional 2030: os quatro papéis", "href": "https://eventos.ARCKHÉ.pro/prof2030/", "icone": "camadas"},
+        {"t": "O que você não é (prof2030-base, aula 7)", "href": "https://linnoff88-dev.github.io/ "icone": "escudo"},
+        {"t": "Os 4 papéis (Vendas com IA 1, aula 1)", "href": "https://linnoff88-dev.github.io/ "icone": "usuario"},
+        {"t": "Página do vídeo com roteiro", "href": "https://linnoff88-dev.github.io/ "icone": "video"}
       ]
     }
   ]
