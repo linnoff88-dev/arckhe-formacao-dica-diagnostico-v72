@@ -118,12 +118,12 @@
         {
           "rot": "matriz-5-areas.md",
           "icone": "grafico",
-          "conteudo": "# Matriz de las 5 áreas — <negocio> — <fecha>\n# Escala: 0 a 3. Criterio = lo que el dueño dijo que justifica la nota.\n\n| Área | Dor | Critério da dor | Urgência | Critério da urgência | Prontidão | Critério da prontidão | Total |\n|---|---|---|---|---|---|---|---|\n| Atendimento | <0-3> | <caso o frase del dueño> | <0-3> | <plazo citado> | <0-3> | <dónde está la información> | <suma> |\n| Vendas | | | | | | | |\n| Marketing | | | | | | | |\n| Gestão | | | | | | | |\n| Financeiro | | | | | | | |\n\nOnde olhar primeiro: <área> — porque <motivo en 1 línea>\nNota que o dono corrigiu: <área, de X a Y, motivo>"
+          "conteudo": "# Matriz de las 5 áreas — <negocio> — <fecha>\n# Escala: 0 a 3. Criterio = lo que el dueño dijo que justifica la nota.\n\n| Área | Dor | Critério da dor | Urgência | Critério da urgência | Prontidêo | Critério da prontidêo | Total |\n|---|---|---|---|---|---|---|---|\n| Atendimento | <0-3> | <caso o frase del dueño> | <0-3> | <plazo citado> | <0-3> | <dónde está la información> | <suma> |\n| Vendas | | | | | | | |\n| Marketing | | | | | | | |\n| Gestêo | | | | | | | |\n| Financeiro | | | | | | | |\n\nOnde olhar primeiro: <área> — porque <motivo en 1 línea>\nNota que o dono corrigiu: <área, de X a Y, motivo>"
         },
         {
           "rot": "Ejemplo parcial (ficticio)",
           "icone": "lista",
-          "conteudo": "# Matriz de las 5 áreas — Clínica Vila Serena (ficticia)\n\n| Área | Dor | Critério da dor | Urgência | Critério | Prontidão | Critério | Total |\n|---|---|---|---|---|---|---|---|\n| Atendimento | 3 | caso de la paciente que agendó en otro lugar + \"respondo de noche, cuando me acuerdo\" | 3 | pidió resolverlo antes de las vacaciones | 1 | precios y convenios en la cabeza del equipo | 7 |\n| Financeiro | 1 | \"nos las arreglamos\", sin un caso | 1 | sin plazo | 2 | extracto del banco + planilla de la socia | 4 |\n\nOnde olhar primeiro: atención — mayor dolor y urgencia; la preparación baja pide ordenar las reglas antes (clases 4 y 5)."
+          "conteudo": "# Matriz de las 5 áreas — Clínica Vila Serena (ficticia)\n\n| Área | Dor | Critério da dor | Urgência | Critério | Prontidêo | Critério | Total |\n|---|---|---|---|---|---|---|---|\n| Atendimento | 3 | caso de la paciente que agendó en otro lugar + \"respondo de noche, cuando me acuerdo\" | 3 | pidió resolverlo antes de las vacaciones | 1 | precios y convenios en la cabeza del equipo | 7 |\n| Financeiro | 1 | \"nos las arreglamos\", sin un caso | 1 | sin plazo | 2 | extracto del banco + planilla de la socia | 4 |\n\nOnde olhar primeiro: atención — mayor dolor y urgencia; la preparación baja pide ordenar las reglas antes (clases 4 y 5)."
         }
       ],
       "saida": {

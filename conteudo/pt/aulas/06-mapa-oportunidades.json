@@ -2,11 +2,11 @@
   "slug": "mapa-oportunidades",
   "num": 6,
   "menu": "Mapa",
-  "titulo": "O mapa de oportunidades: 6 eixos, 4 quadrantes e o que não recomendar",
+  "titulo": "O mapa de oportunidades: 6 eixos, 4 quadrantes e o que nêo recomendar",
   "titulo_curto": "O mapa de oportunidades",
   "minutos": 18,
-  "lead": "Da entrevista saem várias ideias, e o consultor novato escolhe a mais interessante. O diagnóstico escolhe a que dá resultado rápido com segurança, para a confiança pagar as próximas. Você pontua cada candidata em 6 eixos, põe no gráfico de 4 quadrantes e escreve também o que não vai recomendar, e por quê.",
-  "objetivo": "pontuar 5 candidatas nos 6 eixos, recomendar 1, apontar 1 que não precisa de IA e escrever o motivo de cada decisão.",
+  "lead": "Da entrevista saem várias ideias, e o consultor novato escolhe a mais interessante. O diagnóstico escolhe a que dá resultado rápido com segurança, para a confiança pagar as próximas. Você pontua cada candidata em 6 eixos, põe no gráfico de 4 quadrantes e escreve também o que nêo vai recomendar, e por quê.",
+  "objetivo": "pontuar 5 candidatas nos 6 eixos, recomendar 1, apontar 1 que nêo precisa de IA e escrever o motivo de cada decisêo.",
   "competencias": ["pontuar-oportunidades", "recomendar-primeiro-projeto", "dizer-o-que-nao-fazer"],
   "aprende": [
     {"t": "A pergunta antes dos eixos: precisa de IA?"},
@@ -14,7 +14,7 @@
     {"t": "Os 4 quadrantes e o primeiro projeto"},
     {"t": "Como dizer o que fica de fora"}
   ],
-  "hero_alt": "Corretor de imóveis e consultora diante de um quadro branco com quatro quadrantes desenhados à mão e post-its.",
+  "hero_alt": "Corretor de imóveis e consultora diante de um quadro branco com quatro quadrantes desenhados à mêo e post-its.",
   "secoes": [
     {
       "tipo": "diagrama",
@@ -24,29 +24,29 @@
         {"icone": "alvo", "titulo": "Primeiro", "sub": "fácil e útil", "forte": true,
          "detalhe": "Alto impacto e alta facilidade. O primeiro projeto sai sempre daqui: resultado visível em semanas cria a confiança para os próximos."},
         {"icone": "camadas", "titulo": "Ambicioso", "sub": "útil, difícil",
-         "detalhe": "Alto impacto, baixa facilidade. Fica para uma fase seguinte, depois que o primeiro projeto provou valor e a informação foi arrumada."},
+         "detalhe": "Alto impacto, baixa facilidade. Fica para uma fase seguinte, depois que o primeiro projeto provou valor e a informaçêo foi arrumada."},
         {"icone": "check", "titulo": "Bônus", "sub": "fácil, pouco",
-         "detalhe": "Alta facilidade, baixo impacto. Bom como complemento, ruim como prioridade: ocupa tempo e não muda a semana do dono."},
-        {"icone": "x", "titulo": "Não agora", "sub": "difícil, pouco",
-         "detalhe": "Baixa facilidade e baixo impacto. Distração disfarçada. Entra na lista do que você não recomenda, com o motivo."}
+         "detalhe": "Alta facilidade, baixo impacto. Bom como complemento, ruim como prioridade: ocupa tempo e nêo muda a semana do dono."},
+        {"icone": "x", "titulo": "Nêo agora", "sub": "difícil, pouco",
+         "detalhe": "Baixa facilidade e baixo impacto. Distraçêo disfarçada. Entra na lista do que você nêo recomenda, com o motivo."}
       ],
       "legenda": "O gráfico responde \"por que esse antes daquele?\" melhor que qualquer argumento."
     },
     {
       "tipo": "passos",
-      "titulo": "Do catálogo à recomendação",
+      "titulo": "Do catálogo à recomendaçêo",
       "sub": "Quatro passos, nesta ordem.",
       "passos": [
         {"titulo": "Precisa de IA?", "sub": "antes de pontuar",
          "texto": ["Para cada candidata, pergunte primeiro: dá para deixar de fazer? Uma regra fixa resolve (lembrete, planilha, mensagem automática do próprio sistema)?", "Se a regra fixa resolve, ela é mais barata e mais previsível. A escada completa está no prof2030-consultor, aula 3."],
-         "exemplo": {"rot": "Na Vila Serena (fictícia)", "texto": "Lembrete de consulta na véspera é regra fixa: o sistema da agenda manda. Não precisa de IA."}},
+         "exemplo": {"rot": "Na Vila Serena (fictícia)", "texto": "Lembrete de consulta na véspera é regra fixa: o sistema da agenda manda. Nêo precisa de IA."}},
         {"titulo": "Os 6 eixos", "sub": "0 a 3 cada",
-         "texto": ["Impacto (horas por semana ou clientes perdidos, contados pelo dono), facilidade (dado pronto, ferramenta que já existe), urgência, vontade do dono, risco e dependência de julgamento humano.", "Risco e dependência humana pesam contra: nota alta neles torna a automação mais difícil e perigosa. O critério de cada nota está no modelo abaixo."]},
+         "texto": ["Impacto (horas por semana ou clientes perdidos, contados pelo dono), facilidade (dado pronto, ferramenta que já existe), urgência, vontade do dono, risco e dependência de julgamento humano.", "Risco e dependência humana pesam contra: nota alta neles torna a automaçêo mais difícil e perigosa. O critério de cada nota está no modelo abaixo."]},
         {"titulo": "A conta", "sub": "transparente",
-         "texto": ["Nota = (impacto + facilidade + urgência + vontade) − (risco + dependência humana).", "A conta não decide sozinha: ela organiza a conversa. Se a maior nota contraria o bom senso, revise o critério, não a soma."]},
+         "texto": ["Nota = (impacto + facilidade + urgência + vontade) − (risco + dependência humana).", "A conta nêo decide sozinha: ela organiza a conversa. Se a maior nota contraria o bom senso, revise o critério, nêo a soma."]},
         {"titulo": "Recomendar e cortar", "sub": "uma só",
-         "texto": ["Uma recomendação, não cinco. E uma ou duas que ficam de fora, cada uma com o motivo em uma linha.", "Diferencie \"não agora\" (volta depois do primeiro resultado) de \"não precisa de IA\" (regra fixa resolve)."],
-         "exemplo": {"rot": "Comparação (fictícia)", "texto": "Imobiliária Ponto Firme: proposta com 3 imóveis parecidos logo após a visita (primeiro); descrição de anúncios (bônus); previsão de preço de imóvel (não agora: sem dado organizado)."}}
+         "texto": ["Uma recomendaçêo, nêo cinco. E uma ou duas que ficam de fora, cada uma com o motivo em uma linha.", "Diferencie \"nêo agora\" (volta depois do primeiro resultado) de \"nêo precisa de IA\" (regra fixa resolve)."],
+         "exemplo": {"rot": "Comparaçêo (fictícia)", "texto": "Imobiliária Ponto Firme: proposta com 3 imóveis parecidos logo após a visita (primeiro); descriçêo de anúncios (bônus); previsêo de preço de imóvel (nêo agora: sem dado organizado)."}}
       ]
     },
     {
@@ -55,13 +55,13 @@
       "sub": "Uma linha por candidata; motivo obrigatório nas duas decisões. Troque o que está entre < > pelo seu.",
       "blocos": [
         {"rot": "mapa-oportunidades.md", "icone": "grafico",
-         "conteudo": "# Mapa de oportunidades — <negócio> — <data>\n# Escala 0-3. Nota = (Imp + Fac + Urg + Vont) - (Risco + DepHum)\n# Impacto em horas/semana ou clientes perdidos CONTADOS pelo dono (sem R$).\n#\n# Critério de cada eixo (escreva ao lado da nota o que a justifica):\n# Impacto     0 = ninguém sente | 1 = incomoda, sem contagem | 2 = contagem mostra perda toda semana | 3 = perda contada e o dono cita caso recente\n# Facilidade  0 = sem dado, sistema fechado | 1 = dado na cabeça de alguém | 2 = dado em planilha/sistema | 3 = regras escritas e ferramenta que já existe\n# Urgência    0 = pode esperar o semestre | 1 = este trimestre | 2 = este mês | 3 = atrapalhando agora, com prazo pedido\n# Vontade     0 = \"tá legal\" | 1 = curioso | 2 = pede para resolver | 3 = pediu e separou tempo para ajudar\n# Risco       0 = erro sem custo | 1 = erro chato, fácil de corrigir | 2 = erro com cliente ou dado pessoal | 3 = dinheiro, contrato ou saúde\n# DepHum      0 = regra fixa resolve | 1 = pessoa confere às vezes | 2 = pessoa decide nas exceções | 3 = pede julgamento sempre\n\n| Candidata | Área | Precisa de IA? | Imp | Fac | Urg | Vont | Risco | DepHum | Nota | Quadrante |\n|---|---|---|---|---|---|---|---|---|---|---|\n| <1> | <área> | sim / regra fixa / deixar de fazer | | | | | | | | |\n| <2> | | | | | | | | | | |\n| <3> | | | | | | | | | | |\n| <4> | | | | | | | | | | |\n| <5> | | | | | | | | | | |\n\nRecomendada: <candidata> — porque <motivo em 1 linha>\nNão precisa de IA: <candidata> — porque <regra fixa que resolve>\nNão agora: <candidata> — porque <motivo>; volta quando <condição>"},
+         "conteudo": "# Mapa de oportunidades — <negócio> — <data>\n# Escala 0-3. Nota = (Imp + Fac + Urg + Vont) - (Risco + DepHum)\n# Impacto em horas/semana ou clientes perdidos CONTADOS pelo dono (sem R$).\n#\n# Critério de cada eixo (escreva ao lado da nota o que a justifica):\n# Impacto     0 = ninguém sente | 1 = incomoda, sem contagem | 2 = contagem mostra perda toda semana | 3 = perda contada e o dono cita caso recente\n# Facilidade  0 = sem dado, sistema fechado | 1 = dado na cabeça de alguém | 2 = dado em planilha/sistema | 3 = regras escritas e ferramenta que já existe\n# Urgência    0 = pode esperar o semestre | 1 = este trimestre | 2 = este mês | 3 = atrapalhando agora, com prazo pedido\n# Vontade     0 = \"tá legal\" | 1 = curioso | 2 = pede para resolver | 3 = pediu e separou tempo para ajudar\n# Risco       0 = erro sem custo | 1 = erro chato, fácil de corrigir | 2 = erro com cliente ou dado pessoal | 3 = dinheiro, contrato ou saúde\n# DepHum      0 = regra fixa resolve | 1 = pessoa confere às vezes | 2 = pessoa decide nas exceções | 3 = pede julgamento sempre\n\n| Candidata | Área | Precisa de IA? | Imp | Fac | Urg | Vont | Risco | DepHum | Nota | Quadrante |\n|---|---|---|---|---|---|---|---|---|---|---|\n| <1> | <área> | sim / regra fixa / deixar de fazer | | | | | | | | |\n| <2> | | | | | | | | | | |\n| <3> | | | | | | | | | | |\n| <4> | | | | | | | | | | |\n| <5> | | | | | | | | | | |\n\nRecomendada: <candidata> — porque <motivo em 1 linha>\nNêo precisa de IA: <candidata> — porque <regra fixa que resolve>\nNêo agora: <candidata> — porque <motivo>; volta quando <condiçêo>"},
         {"rot": "Roteiro da devolutiva (10 min)", "icone": "chat",
-         "conteudo": "0-2 min  Reconectar: \"Na nossa conversa você disse: '<frase literal>'. Continua assim?\"\n2-5 min  Mapa: \"Estas são as 5 ideias que apareceram, no gráfico de impacto e facilidade.\"\n5-8 min  Recomendação: \"Proponho começar por <X>, porque <motivo>. Faz sentido?\"\n         Cortes: \"Considerei <Y> e <Z>, mas não recomendo agora: <motivo>.\"\n8-10 min Próximo passo: \"O próximo passo é <tarefa com data>.\""}
+         "conteudo": "0-2 min  Reconectar: \"Na nossa conversa você disse: '<frase literal>'. Continua assim?\"\n2-5 min  Mapa: \"Estas sêo as 5 ideias que apareceram, no gráfico de impacto e facilidade.\"\n5-8 min  Recomendaçêo: \"Proponho começar por <X>, porque <motivo>. Faz sentido?\"\n         Cortes: \"Considerei <Y> e <Z>, mas nêo recomendo agora: <motivo>.\"\n8-10 min Próximo passo: \"O próximo passo é <tarefa com data>.\""}
       ],
       "saida": {"selo": "simulacao", "abas": [
-        {"rot": "Como conferir", "html": "<ul><li>As 5 candidatas têm a coluna \"precisa de IA?\" preenchida antes das notas.</li><li>Há exatamente 1 recomendada e pelo menos 1 \"não precisa de IA\", cada uma com motivo.</li><li>Nenhuma nota de impacto está em reais; está em horas ou clientes contados.</li></ul>"},
-        {"rot": "Erros comuns", "html": "<ul><li>Escolher a ideia mais interessante, não a mais rápida e segura.</li><li>Recomendar tudo (\"vamos atacar as cinco\").</li><li>Esquecer o risco: financeiro e reclamação séria pedem humano.</li><li>Fechar a devolutiva com contrato: preço e proposta são da Vendas com IA.</li></ul>"}
+        {"rot": "Como conferir", "html": "<ul><li>As 5 candidatas têm a coluna \"precisa de IA?\" preenchida antes das notas.</li><li>Há exatamente 1 recomendada e pelo menos 1 \"nêo precisa de IA\", cada uma com motivo.</li><li>Nenhuma nota de impacto está em reais; está em horas ou clientes contados.</li></ul>"},
+        {"rot": "Erros comuns", "html": "<ul><li>Escolher a ideia mais interessante, nêo a mais rápida e segura.</li><li>Recomendar tudo (\"vamos atacar as cinco\").</li><li>Esquecer o risco: financeiro e reclamaçêo séria pedem humano.</li><li>Fechar a devolutiva com contrato: preço e proposta sêo da Vendas com IA.</li></ul>"}
       ]}
     },
     {
@@ -71,10 +71,10 @@
       "exercicios": [
         {"id": "e1", "titulo": "E1 · Matriz 6 eixos × 5 candidatas", "min": "25 min",
          "texto": "Liste 5 candidatas da Vila Serena (ex.: responder dúvidas da noite, lembrete de consulta, organizar a planilha de pacotes, posts semanais, cobrança de quem atrasou). Preencha a matriz com a coluna \"precisa de IA?\".",
-         "pronto": "a matriz tem 5 candidatas pontuadas nos 6 eixos, com 1 recomendada, 1 \"não precisa de IA\" e o motivo das duas."},
+         "pronto": "a matriz tem 5 candidatas pontuadas nos 6 eixos, com 1 recomendada, 1 \"nêo precisa de IA\" e o motivo das duas."},
         {"id": "e2", "titulo": "E2 · Roteiro da devolutiva", "min": "10 min",
          "texto": "Adapte o roteiro de 10 minutos com uma frase literal da dona (da aula 2) e os cortes da sua matriz.",
-         "pronto": "o roteiro tem 1 frase literal, 1 recomendação, pelo menos 1 corte com motivo e um próximo passo com data, sem falar de preço."}
+         "pronto": "o roteiro tem 1 frase literal, 1 recomendaçêo, pelo menos 1 corte com motivo e um próximo passo com data, sem falar de preço."}
       ]
     },
     {
@@ -85,12 +85,12 @@
          "opcoes": ["Alto impacto e baixa facilidade.", "Baixo impacto e alta facilidade.", "Alto impacto e alta facilidade.", "O de maior impacto, mesmo que difícil."],
          "certa": 2, "explica": "Resultado rápido e seguro cria a confiança que autoriza os projetos difíceis depois.", "ref": "diagrama", "cert": true},
         {"p": "Lembrete de consulta na véspera, que o sistema da agenda já manda. Como classificar?",
-         "opcoes": ["Não precisa de IA: regra fixa resolve.", "Primeiro projeto de IA.", "Projeto ambicioso, para uma fase seguinte.", "Não agora, por falta de dado."],
+         "opcoes": ["Nêo precisa de IA: regra fixa resolve.", "Primeiro projeto de IA.", "Projeto ambicioso, para uma fase seguinte.", "Nêo agora, por falta de dado."],
          "certa": 0, "explica": "Antes dos eixos vem a pergunta \"precisa de IA?\". Regra fixa é mais barata e mais previsível.", "ref": "passos"},
         {"p": "Na conta da nota, por que risco e dependência humana subtraem?",
-         "opcoes": ["Porque são eixos menos importantes.", "Porque nota alta neles torna a automação mais difícil e perigosa.", "Porque o dono de pequeno negócio não gosta de correr nenhum risco.", "Porque são notas dadas pelo dono, não pelo consultor."],
-         "certa": 1, "explica": "Erro que mexe com dinheiro ou relação, ou tarefa que pede julgamento, pesa contra automatizar agora.", "ref": "passos"},
-        {"p": "Por que a devolutiva lista o que você NÃO recomenda?",
+         "opcoes": ["Porque sêo eixos menos importantes.", "Porque nota alta neles torna a automaçêo mais difícil e perigosa.", "Porque o dono de pequeno negócio nêo gosta de correr nenhum risco.", "Porque sêo notas dadas pelo dono, nêo pelo consultor."],
+         "certa": 1, "explica": "Erro que mexe com dinheiro ou relaçêo, ou tarefa que pede julgamento, pesa contra automatizar agora.", "ref": "passos"},
+        {"p": "Por que a devolutiva lista o que você NêO recomenda?",
          "opcoes": ["Para encurtar o relatório.", "Para já deixar vendidos os outros projetos, que entram logo depois do primeiro.", "Porque o dono pediu tudo.", "Porque cortar com motivo mostra critério e aumenta a confiança no que ficou."],
          "certa": 3, "explica": "Lista com tudo parece vendedor; lista com cortes justificados parece consultor.", "ref": "codigo"}
       ]
@@ -101,15 +101,15 @@
       "itens": [
         {"t": "Precisa de IA?", "texto": "Antes de pontuar: deixar de fazer, regra fixa ou IA. Regra fixa resolve muita coisa."},
         {"t": "6 eixos, uma conta", "texto": "Impacto, facilidade, urgência e vontade somam; risco e dependência humana subtraem."},
-        {"t": "Um sim, alguns nãos", "texto": "Uma recomendação do quadrante \"primeiro\", e os cortes com motivo e com quando voltam."}
+        {"t": "Um sim, alguns nêos", "texto": "Uma recomendaçêo do quadrante \"primeiro\", e os cortes com motivo e com quando voltam."}
       ]
     },
     {
       "tipo": "links",
       "titulo": "Para ir além",
       "links": [
-        {"t": "Valor × viabilidade e quando NÃO usar IA (prof2030-consultor, aula 3)", "href": "https://linnoff88-dev.github.io/ "icone": "alvo"},
-        {"t": "Qual tecnologia, e o que não usar (Vendas com IA 2, aula 6)", "href": "https://linnoff88-dev.github.io/ "icone": "chip"}
+        {"t": "Valor × viabilidade e quando NêO usar IA (prof2030-consultor, aula 3)", "href": "https://linnoff88-dev.github.io/ "icone": "alvo"},
+        {"t": "Qual tecnologia, e o que nêo usar (Vendas com IA 2, aula 6)", "href": "https://linnoff88-dev.github.io/ "icone": "chip"}
       ]
     }
   ]
