@@ -112,8 +112,8 @@
       "tipo": "links",
       "titulo": "Para ir além",
       "links": [
-        {"t": "Conhecimento da empresa como ativo (Gestêo de IA · Recursos, aula 3)", "href": "https://inematds.github.io/gestao-ia-recursos-v72/aulas/contexto/", "icone": "memoria"},
-        {"t": "Mapear o que acontece de verdade (Gestêo de IA · Processos, aula 3)", "href": "https://inematds.github.io/gestao-ia-processos-v72/aulas/mapear/", "icone": "lupa"}
+        {"t": "Conhecimento da empresa como ativo (Gestêo de IA · Recursos, aula 3)", "href": "https://linnoff88-dev.github.io/arckhe-/aulas/contexto/", "icone": "memoria"},
+        {"t": "Mapear o que acontece de verdade (Gestêo de IA · Processos, aula 3)", "href": "https://linnoff88-dev.github.io/arckhe-/aulas/mapear/", "icone": "lupa"}
       ]
     }
   ]
